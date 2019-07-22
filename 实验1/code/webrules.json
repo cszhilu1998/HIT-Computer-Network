@@ -1,0 +1,13 @@
+{
+  "host": [
+    "www.fudan.edu.cn"
+  ],
+  
+  "ip": [
+	"127.0.0.1"
+  ],
+  
+  "phishing": {
+    "www.tsinghua.edu.cn": "www.xjtu.edu.cn"
+  }
+}
